@@ -1,0 +1,3 @@
+Rewrite the Net()  Class with PyTorch, this time with 5 convolutional layers, and experiment with different filter sizes, numbers of filters, and strides to increase the accuracy of the network on CIFAR-10 dataset.
+Modify the transform function to add random rotation to the data augmentation pipeline. Experiment with rotation angles (between 10-15 degrees) and see if it improves the performance of the network.
+Train the modified network on CIFAR-10 dataset for at least 20 (you can go more) epochs and report the final accuracy achieved. Compare the accuracy with the original network provided in the notebook.
